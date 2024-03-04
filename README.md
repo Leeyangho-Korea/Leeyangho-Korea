@@ -62,8 +62,7 @@ Learning <img src="https://img.shields.io/badge/C++-512BD4?style=plastic&logo=cp
 
 
 <!-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeyangho-Korea&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&hide=stars,contribs)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeyangho-Korea&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&hide=stars)
 깃헙스탯
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leeyangho-Korea&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
