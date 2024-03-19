@@ -52,10 +52,7 @@ Learning <img src="https://img.shields.io/badge/C++-512BD4?style=plastic&logo=cp
 <div align="center">
 <br>
 
-#  🔗 **PortPolioLink** 
 
-<a href="https://www.notion.so/d9ec843ac9a64c5284e0688249cc907a" target="_blank"><img src="https://img.shields.io/badge/Portpolie_Notion-2088FF?style=plastic&logo=notion&logoColor=FFFFFF"/></a>
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7f5f5,100:2193b0&height=200&section=footer"/>
 
@@ -68,7 +65,10 @@ Learning <img src="https://img.shields.io/badge/C++-512BD4?style=plastic&logo=cp
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leeyangho-Korea&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 
+#  🔗 **PortPolioLink** 
 
+<a href="https://www.notion.so/d9ec843ac9a64c5284e0688249cc907a" target="_blank"><img src="https://img.shields.io/badge/Portpolie_Notion-2088FF?style=plastic&logo=notion&logoColor=FFFFFF"/></a>
+</div>
 //
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeyangho-Korea&show_icons=true&theme=radical) 깃헙 티어
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tootoo741)](https://solved.ac/tootoo741/) 백준 티어
