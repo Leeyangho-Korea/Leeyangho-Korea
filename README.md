@@ -31,8 +31,8 @@ Learning <img src="https://img.shields.io/badge/C++-512BD4?style=plastic&logo=cp
 **🏆 Award** 
 
 2024 서강대 메타버스 기획 공모전 1등 (총장상) <br>
-2021 미래인재 발굴육성사업 최종 데모데이 1등 <br>
-2021 미래인재 발굴육성사업 중간 발표 개발부 1등 <br>
+2021 미래인재 발굴육성 국가사업 최종 데모데이 1등 <br>
+2021 미래인재 발굴육성 국가사업 중간 발표 개발부 1등 <br>
 
 <br>
 
@@ -47,7 +47,7 @@ Learning <img src="https://img.shields.io/badge/C++-512BD4?style=plastic&logo=cp
 # 🎒 **Activites** </div>
 
 2023 국제 게임 전시회 G-STAR 게임 전시 및 운영 <br>
-2021 디지털콘텐츠 미래인재 발굴육성 사업 수료 ( 과학기술정보통신부 주최 )
+2021 디지털콘텐츠 미래인재 발굴육성 국가사업 수료 ( 과학기술정보통신부 주최 )
 
 <div align="center">
 <br>
