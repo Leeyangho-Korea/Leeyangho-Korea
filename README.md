@@ -30,13 +30,13 @@ Learning <img src="https://img.shields.io/badge/C++-512BD4?style=plastic&logo=cp
 
 ### 🏆 Award
 
-- 2024 서강대 메타버스 기획 공모전 1등 (총장상) <br>
+- 2024 서강대 메타버스 기획 공모전 **1등** (총장상) <br>
   - AI 일기장 어플 개발
   - Role : Unity Programming
-- 2021 미래인재 발굴육성 국가사업 최종 데모데이 1등 <br>
+- 2021 미래인재 발굴육성 국가사업 최종 데모데이 **1등** <br>
   - 기능성 게임 개발
   - Role : Unity Programming
-- 2021 미래인재 발굴육성 국가사업 중간 발표 개발부 1등 <br>
+- 2021 미래인재 발굴육성 국가사업 중간 발표 개발부 **1등** <br>
   - 공포 게임 개발
   - Role : Unity Programming
 
