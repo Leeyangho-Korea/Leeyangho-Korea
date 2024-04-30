@@ -28,34 +28,46 @@ Learning <img src="https://img.shields.io/badge/C++-512BD4?style=plastic&logo=cp
   
 # 🚩 **Achieve** </div>
 
-**🏆 Award** 
+### 🏆 Award
 
-2024 서강대 메타버스 기획 공모전 1등 (총장상) <br>
-2021 미래인재 발굴육성 국가사업 최종 데모데이 1등 <br>
-2021 미래인재 발굴육성 국가사업 중간 발표 개발부 1등 <br>
+- 2024 서강대 메타버스 기획 공모전 1등 (총장상) <br>
+  - AI 일기장 어플 개발
+  - Role : Unity Programming
+- 2021 미래인재 발굴육성 국가사업 최종 데모데이 1등 <br>
+  - 기능성 게임 개발
+  - Role : Unity Programming
+- 2021 미래인재 발굴육성 국가사업 중간 발표 개발부 1등 <br>
+  - 공포 게임 개발
+  - Role : Unity Programming
 
 <br>
 
-**👨‍🎓 Education** 
+### 👨‍🎓 Education
 
-석사 : 서강대학교 메타버스전문대학원 공학석사과정(테크놀로지학과) 재학중<br>
-학사 : 남서울대학교 정보통신공학과 
+- 석사 : 서강대학교 메타버스전문대학원 테크놀로지학과 재학중<br>
+  - 공학석사 과정
+  - Microdegree : SW 저작권
+    
+- 학사 : 남서울대학교 정보통신공학과
 
 <div align="center">
 <br>
+
 
 # 🎒 **Activites** </div>
 
-2023 국제 게임 전시회 G-STAR 게임 전시 및 운영 <br>
-2021 디지털콘텐츠 미래인재 발굴육성 국가사업 수료 ( 과학기술정보통신부 주최 )
+- 2023 국제 게임 전시회 G-STAR 게임 전시 및 운영 <br>
+  - 방치형 모바일 게임 개발
+  - Role : Unity Programming
+- 2021 디지털콘텐츠 미래인재 발굴육성 국가사업 수료 <br>
+  - 과학기술정보통신부 주최
+  - 해당 사업의 모든 대회에서 1등 수상
 
 <div align="center">
 <br>
 
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7f5f5,100:2193b0&height=200&section=footer"/>
-
 
 
 <!-- 
