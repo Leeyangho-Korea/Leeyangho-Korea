@@ -44,11 +44,11 @@ Learning <img src="https://img.shields.io/badge/C++-512BD4?style=plastic&logo=cp
 
 ### 👨‍🎓 Education
 
-- 석사 : 서강대학교 메타버스전문대학원 테크놀로지학과 졸업예정(25.08)<br>  
+- 석사 : 서강대학교 메타버스전문대학원 테크놀로지학과 졸업예정(25.08)<br>
   - Major : 테크놀로지 (공학석사)
   - Microdegree : SW 저작권
     
-- 학사 : 남서울대학교 정보통신공학과
+- 학사 : 남서울대학교 정보통신공학과 졸업
 
 <div align="center">
 <br>
