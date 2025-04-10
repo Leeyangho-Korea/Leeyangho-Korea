@@ -3,8 +3,6 @@
 
 # **👨‍💻 Client Developer**
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2FLeeyangho-Korea&count_bg=%23467E1C&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://github.com/Leeyangho-Korea)
-
 #### ⚒️ *Tools*
 Mainly used <img src="https://img.shields.io/badge/Unity-FFFFFF?style=plastic&logo=unity&logoColor=000000"/> ■■■■ <br>
 Learning <img src="https://img.shields.io/badge/Unreal-0E1128?style=plastic&logo=unrealengine&logoColor=FFFFFF"/> ■■
@@ -29,7 +27,9 @@ Learning <img src="https://img.shields.io/badge/C++-512BD4?style=plastic&logo=cp
 # 🚩 **Achieve** </div>
 
 ### 🏆 Award
-
+- 2024 서강대 메타버스 산학협력 경진대회 **1등** <br>
+  - 신사업 기획 발표
+  - Role : 사업 아이템의 기술 검토 및 적용 방안 제시
 - 2024 서강대 메타버스 기획 공모전 **1등** (총장상) <br>
   - AI 일기장 어플 개발
   - Role : Unity Programming
@@ -44,8 +44,8 @@ Learning <img src="https://img.shields.io/badge/C++-512BD4?style=plastic&logo=cp
 
 ### 👨‍🎓 Education
 
-- 석사 : 서강대학교 메타버스전문대학원 테크놀로지학과 재학중<br>
-  - 공학석사 과정
+- 석사 : 서강대학교 메타버스전문대학원 테크놀로지학과 졸업예정(25.08)<br>  
+  - Major : 테크놀로지 (공학석사)
   - Microdegree : SW 저작권
     
 - 학사 : 남서울대학교 정보통신공학과
@@ -61,11 +61,22 @@ Learning <img src="https://img.shields.io/badge/C++-512BD4?style=plastic&logo=cp
   - Role : Unity Programming
 - 2021 디지털콘텐츠 미래인재 발굴육성 국가사업 수료 <br>
   - 과학기술정보통신부 주최
-  - 해당 사업의 모든 대회에서 1등 수상
+  - Unity, C#의 전반적인 교육과 시험, 팀프로젝트 진행
+  - 사업 중 진행한 두 번의 대회에서 1등 수상
 
 <div align="center">
 <br>
 
+<!--
+# 🔗 **PortPolioLink** </div>
+
+<div align="center">
+<br>
+<a href="https://www.notion.so/d9ec843ac9a64c5284e0688249cc907a" target="_blank"><img src="https://img.shields.io/badge/Portpolie_Notion-2088FF?style=plastic&logo=notion&logoColor=FFFFFF"/></a>
+
+<div align="center">
+<br>
+-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7f5f5,100:2193b0&height=200&section=footer"/>
 
@@ -77,7 +88,7 @@ Learning <img src="https://img.shields.io/badge/C++-512BD4?style=plastic&logo=cp
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leeyangho-Korea&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 
-#  🔗 **PortPolioLink** 
+# 🔗 **PortPolioLink** 
 
 <a href="https://www.notion.so/d9ec843ac9a64c5284e0688249cc907a" target="_blank"><img src="https://img.shields.io/badge/Portpolie_Notion-2088FF?style=plastic&logo=notion&logoColor=FFFFFF"/></a>
 </div>
