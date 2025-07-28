@@ -44,8 +44,8 @@ Learning <img src="https://img.shields.io/badge/C++-512BD4?style=plastic&logo=cp
 
 ### 👨‍🎓 Education
 
-- 석사 : 서강대학교 메타버스전문대학원 테크놀로지학과 졸업<br>
-  - Major : 테크놀로지 (공학석사)
+- 석사 : 서강대학교 메타버스전문대학원 테크놀로지전공 졸업<br>
+  - Major : 공학 석사
   - Microdegree : SW 저작권
     
 - 학사 : 남서울대학교 정보통신공학과 졸업
