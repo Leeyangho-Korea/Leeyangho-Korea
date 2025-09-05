@@ -50,6 +50,8 @@ Learning <img src="https://img.shields.io/badge/C++-512BD4?style=plastic&logo=cp
     
 - 학사 : 남서울대학교 정보통신공학과 졸업
 
+- Google AI Essentials 수료 2025.09
+
 <div align="center">
 <br>
 
